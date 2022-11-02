@@ -1,0 +1,12 @@
+config.py
+Procfile
+requirements.txt
+runtime.txt
+__pycache__/unmute.cpython-39.pyc
+__pycache__/sistemgus.cpython-39.pyc
+__pycache__/game21.cpython-39.pyc
+__pycache__/config.cpython-39.pyc
+.vscode/launch.json
+.vs/Python bot/v16/.suo
+.vs/VSWorkspaceState.json
+.vs/slnx.sqlite
